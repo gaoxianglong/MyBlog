@@ -1,5 +1,6 @@
 # MyBlog
 
+* [https://xie.infoq.cn/article/1a4fc76ad9b09d85a663ccff8](https://xie.infoq.cn/article/1a4fc76ad9b09d85a663ccff8)<br>
 * [硬核系列 | 深入剖析字节码增强](https://xie.infoq.cn/article/d367c19896e4cef6fbb661cf7)<br>
 * [白玉试毒 | 灰度架构设计方案](https://xie.infoq.cn/article/61868b3f66de36d32a5f1434f)<br>
 * [剖析 Java15 新语法特性](https://xie.infoq.cn/article/92ba88c7926b5f5c6fbc11830)<br>
