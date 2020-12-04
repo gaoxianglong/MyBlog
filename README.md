@@ -1,5 +1,6 @@
 # MyBlog
 
+* [算力 | 手写红黑树](https://xie.infoq.cn/article/ae514bc05af1f16b151a351f8)<br>
 * [仿生智能 | 初号机的成长之路序章](https://xie.infoq.cn/article/1a4fc76ad9b09d85a663ccff8)<br>
 * [硬核系列 | 深入剖析字节码增强](https://xie.infoq.cn/article/d367c19896e4cef6fbb661cf7)<br>
 * [白玉试毒 | 灰度架构设计方案](https://xie.infoq.cn/article/61868b3f66de36d32a5f1434f)<br>
